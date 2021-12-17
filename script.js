@@ -126,7 +126,7 @@ $(document).ready(function() {
 	$( "#distanceSlider" ).slider({
 		range: false,
 		value: 50,
-		min: 30,
+		min: 10,
 		max: 200,
 		step: 1,
 		create: function() {
